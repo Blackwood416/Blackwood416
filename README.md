@@ -1,7 +1,7 @@
-## Focusing on AI local deployment 👀
+## Goal is local AI companion 👀
 
 ## Stats
-[![Blackwood416's GitHub stats](https://github-stats-extended.vercel.app/api?username=Blackwood416)](https://github.com/anuraghazra/github-readme-stats)
+[![Blackwood416's GitHub stats](https://github-stats-extended.vercel.app/api?username=Blackwood416&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,c,py,pytorch,sqlite,blender,unity)](https://skillicons.dev)
