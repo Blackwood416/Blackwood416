@@ -8,7 +8,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=rider,visualstudio,vscode,neovim,windows,linux,arch,debian,ubuntu)](https://skillicons.dev)
 
-## My PC Hardware
+## My PC Build
+- OS: Windows 11 Pro 25H2 & Ubuntu Server 24.04
 - CPU: Intel Xeon E5 2696V3
 - GPU: Intel Arc A770 16G
 - Memory: DDR3 1866 16G x4
