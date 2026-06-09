@@ -1,8 +1,18 @@
 ## Focusing on AI local deployment 👀
 
+## Stats
 [![Blackwood416's GitHub stats](https://github-stats-extended.vercel.app/api?username=Blackwood416)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,c,sqlite,rider,visualstudio,vscode,vim,windows,linux,arch,ubuntu)](https://skillicons.dev)
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,c,py,pytorch,sqlite,blender,unity)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=rider,visualstudio,vscode,neovim,windows,linux,arch,debian,ubuntu)](https://skillicons.dev)
+
+## My PC Hardware
+- CPU: Intel Xeon E5 2696V3
+- GPU: Intel Arc A770 16G
+- Memory: DDR3 1866 16G x4
+- Disk: 3TB SSD
 
 <!--
 **Blackwood416/Blackwood416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
