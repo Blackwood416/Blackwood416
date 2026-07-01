@@ -12,7 +12,7 @@
 - OS: Windows 11 Pro 25H2 & Ubuntu Server 24.04
 - CPU: Intel Xeon E5 2696V3
 - GPU: Intel Arc A770 16G
-- Memory: DDR3 1866 16G x4
+- Memory: DDR3 1866 16G x3
 - Disk: 3TB SSD
 
 <!--
