@@ -21,8 +21,10 @@ oneDNN, OpenVINO, and ComfyUI plumbing that makes an A770 actually usable.
 |:--|:--|:--|
 | **[AstraTTS](https://github.com/Blackwood416/AstraTTS)** | High-performance cross-platform TTS | ![stars](https://img.shields.io/github/stars/Blackwood416/AstraTTS?style=flat&color=555&labelColor=222) |
 | **[Aila](https://github.com/Blackwood416/Aila)** | C++ inference engine, SYCL + oneDNN | ![stars](https://img.shields.io/github/stars/Blackwood416/Aila?style=flat&color=555&labelColor=222) |
-| **[ComfyUI-OmniXPU](https://github.com/Blackwood416/ComfyUI-OmniXPU)** | Intel XPU integration for ComfyUI (A770 / DG2) | ![stars](https://img.shields.io/github/stars/Blackwood416/ComfyUI-OmniXPU?style=flat&color=555&labelColor=222) |
-| **[omni-xpu-kernel](https://github.com/Blackwood416/omni-xpu-kernel)** | Standalone XPU/SYCL kernel collection | ![stars](https://img.shields.io/github/stars/Blackwood416/omni-xpu-kernel?style=flat&color=555&labelColor=222) |
+| **[ComfyUI-OmniXPU](https://github.com/Blackwood416/ComfyUI-OmniXPU)** † | Intel XPU integration for ComfyUI (A770 / DG2) | ![stars](https://img.shields.io/github/stars/Blackwood416/ComfyUI-OmniXPU?style=flat&color=555&labelColor=222) |
+| **[omni-xpu-kernel](https://github.com/Blackwood416/omni-xpu-kernel)** † | Standalone XPU/SYCL kernel collection | ![stars](https://img.shields.io/github/stars/Blackwood416/omni-xpu-kernel?style=flat&color=555&labelColor=222) |
+
+<sub>† Extracted from [`intel/llm-scaler`](https://github.com/intel/llm-scaler) and ported to DG2 (Arc A770) — half-derived work, not a straight fork.</sub>
 
 ## 🛠 Skills
 
@@ -31,7 +33,10 @@ oneDNN, OpenVINO, and ComfyUI plumbing that makes an A770 actually usable.
 
 **AI / GPU**
 [![AI/GPU](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
-&nbsp;`SYCL` `oneDNN` `OpenVINO` `llama.cpp`
+[![SYCL](https://img.shields.io/badge/SYCL-0068B5?style=flat)](https://www.khronos.org/sycl/)
+[![oneDNN](https://img.shields.io/badge/oneDNN-0071C5?style=flat)](https://github.com/oneapi-src/oneDNN)
+[![OpenVINO](https://img.shields.io/badge/OpenVINO-0C4B87?style=flat)](https://github.com/openvinotoolkit/openvino)
+[![llama.cpp](https://img.shields.io/badge/llama.cpp-444444?style=flat)](https://github.com/ggerganov/llama.cpp)
 
 **Tooling**
 [![Tooling](https://skillicons.dev/icons?i=git,cmake,githubactions,visualstudio,rider,vscode,neovim)](https://skillicons.dev)
@@ -58,6 +63,4 @@ oneDNN, OpenVINO, and ComfyUI plumbing that makes an A770 actually usable.
 - **GPU**: Intel Arc A770 16 GB
 - **RAM**: DDR3-1866 16 GB ×4
 - **Storage**: 3 TB SSD
-
-Also running an Arch container on an Android phone — see [Dotfiles](https://github.com/Blackwood416/Dotfiles).
 </details>
