@@ -28,20 +28,19 @@ oneDNN, OpenVINO, and ComfyUI plumbing that makes an A770 actually usable.
 
 ## 🛠 Skills
 
-**Languages**
+**Languages**<br>
 [![Languages](https://skillicons.dev/icons?i=cs,cpp,python,bash,pwsh)](https://skillicons.dev)
 
-**AI / GPU**
+**AI / GPU**<br>
 [![AI/GPU](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
-[![SYCL](https://img.shields.io/badge/SYCL-0068B5?style=flat)](https://www.khronos.org/sycl/)
-[![oneDNN](https://img.shields.io/badge/oneDNN-0071C5?style=flat)](https://github.com/oneapi-src/oneDNN)
-[![OpenVINO](https://img.shields.io/badge/OpenVINO-0C4B87?style=flat)](https://github.com/openvinotoolkit/openvino)
-[![llama.cpp](https://img.shields.io/badge/llama.cpp-444444?style=flat)](https://github.com/ggerganov/llama.cpp)
 
-**Tooling**
+**Inference stack**<br>
+`SYCL` · `oneDNN` · `OpenVINO` · `llama.cpp` · `ComfyUI`
+
+**Tooling**<br>
 [![Tooling](https://skillicons.dev/icons?i=git,cmake,githubactions,visualstudio,rider,vscode,neovim)](https://skillicons.dev)
 
-**Systems**
+**Systems**<br>
 [![Systems](https://skillicons.dev/icons?i=windows,arch,debian,ubuntu)](https://skillicons.dev)
 
 ## 📊 GitHub
