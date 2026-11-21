@@ -23,8 +23,11 @@ oneDNN, OpenVINO, and ComfyUI plumbing that makes an A770 actually usable.
 | **[Aila](https://github.com/Blackwood416/Aila)** | C++ inference engine, SYCL + oneDNN | ![stars](https://img.shields.io/github/stars/Blackwood416/Aila?style=flat&color=555&labelColor=222) |
 | **[ComfyUI-OmniXPU](https://github.com/Blackwood416/ComfyUI-OmniXPU)** † | Intel XPU integration for ComfyUI (A770 / DG2) | ![stars](https://img.shields.io/github/stars/Blackwood416/ComfyUI-OmniXPU?style=flat&color=555&labelColor=222) |
 | **[omni-xpu-kernel](https://github.com/Blackwood416/omni-xpu-kernel)** † | Standalone XPU/SYCL kernel collection | ![stars](https://img.shields.io/github/stars/Blackwood416/omni-xpu-kernel?style=flat&color=555&labelColor=222) |
+| **[comfy-aimdo-xpu](https://github.com/Blackwood416/comfy-aimdo-xpu)** ‡ | XPU build of ComfyUI's AI Model Demand Offloading Allocator | ![stars](https://img.shields.io/github/stars/Blackwood416/comfy-aimdo-xpu?style=flat&color=555&labelColor=222) |
+| **[comfy-mono-decode-xpu](https://github.com/Blackwood416/comfy-mono-decode-xpu)** ‡ | XPU decode kernels for ComfyUI prompt-enhance (TextGenerate) | ![stars](https://img.shields.io/github/stars/Blackwood416/comfy-mono-decode-xpu?style=flat&color=555&labelColor=222) |
 
-<sub>† Extracted from [`intel/llm-scaler`](https://github.com/intel/llm-scaler) and ported to DG2 (Arc A770) — half-derived work, not a straight fork.</sub>
+<sub>† Extracted from [`intel/llm-scaler`](https://github.com/intel/llm-scaler) and ported to DG2 (Arc A770) — half-derived work, not a straight fork.<br>
+‡ Fork of [`xiangyuT`](https://github.com/xiangyuT)'s XPU work on ComfyUI internals (aimdo itself forks [`Comfy-Org/comfy-aimdo`](https://github.com/Comfy-Org/comfy-aimdo)).</sub>
 
 ## 🛠 Skills
 
@@ -46,13 +49,15 @@ oneDNN, OpenVINO, and ComfyUI plumbing that makes an A770 actually usable.
 ## 📊 GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Blackwood416&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true">
-  <img alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=Blackwood416&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blackwood416&theme=onedark">
+  <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blackwood416&theme=default">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Blackwood416&layout=compact&langs_count=8&theme=onedark&hide_border=true">
-  <img alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Blackwood416&layout=compact&langs_count=8&theme=default&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Blackwood416&theme=onedark&hide_border=true">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Blackwood416&theme=default&hide_border=true">
 </picture>
+
+<sub>Cards are served by public instances and get rate-limited now and then — refresh if one shows an error.</sub>
 
 <details>
 <summary>🖥 My homelab</summary>
