@@ -12,6 +12,7 @@ oneDNN, OpenVINO, and ComfyUI plumbing that makes an A770 actually usable.
 
 ## 🔭 Currently building
 
+- **[InferRef](https://github.com/Blackwood416/InferRef)** — reference tracing, testcase extraction & numerical comparison for inference engines (`pip install inferref`)
 - **[Aila](https://github.com/Blackwood416/Aila)** — inference engine on SYCL + oneDNN for Intel GPUs
 - **[ComfyUI-OmniXPU](https://github.com/Blackwood416/ComfyUI-OmniXPU)** — thin Intel XPU backend for upstream ComfyUI
 
@@ -21,6 +22,7 @@ oneDNN, OpenVINO, and ComfyUI plumbing that makes an A770 actually usable.
 |:--|:--|:--|
 | **[AstraTTS](https://github.com/Blackwood416/AstraTTS)** | High-performance cross-platform TTS | ![stars](https://img.shields.io/github/stars/Blackwood416/AstraTTS?style=flat&color=555&labelColor=222) |
 | **[Aila](https://github.com/Blackwood416/Aila)** | C++ inference engine, SYCL + oneDNN | ![stars](https://img.shields.io/github/stars/Blackwood416/Aila?style=flat&color=555&labelColor=222) |
+| **[InferRef](https://github.com/Blackwood416/InferRef)** | Reference execution tracing & numerical comparison for inference engines (on PyPI) | ![stars](https://img.shields.io/github/stars/Blackwood416/InferRef?style=flat&color=555&labelColor=222) |
 | **[ComfyUI-OmniXPU](https://github.com/Blackwood416/ComfyUI-OmniXPU)** † | Intel XPU integration for ComfyUI (A770 / DG2) | ![stars](https://img.shields.io/github/stars/Blackwood416/ComfyUI-OmniXPU?style=flat&color=555&labelColor=222) |
 | **[omni-xpu-kernel](https://github.com/Blackwood416/omni-xpu-kernel)** † | Standalone XPU/SYCL kernel collection | ![stars](https://img.shields.io/github/stars/Blackwood416/omni-xpu-kernel?style=flat&color=555&labelColor=222) |
 | **[comfy-aimdo-xpu](https://github.com/Blackwood416/comfy-aimdo-xpu)** ‡ | XPU build of ComfyUI's AI Model Demand Offloading Allocator | ![stars](https://img.shields.io/github/stars/Blackwood416/comfy-aimdo-xpu?style=flat&color=555&labelColor=222) |
